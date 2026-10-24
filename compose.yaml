@@ -1,0 +1,6 @@
+services:
+  connect-four:
+    build: apps/connect-four-service
+
+  sudoku:
+    build: apps/sudoku-service
